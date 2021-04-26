@@ -1,2 +1,9 @@
 # chemical_calculation
-This is files that helps chemical calculation.
+
+## 概要
+　このアプリは、化学計算を行うためのものです。溶液調製の際などに使用することができます。
+ 
+## 注意事項
+* このアプリは、xamppを用いたローカル環境で使用することを想定して開発しました。<br>
+* 「0_list_of_chemical_calculation.php」がメインのページです。<br>
+* 物質の分子量は表に記載されている値が登録されていますが、有効数字などが異なる場合は分子量を直接入力してください。
